@@ -1,0 +1,1 @@
+# ziebowski_adrian_repo_bazy_danych
