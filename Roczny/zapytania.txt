@@ -1,0 +1,10 @@
+1. Jak stworzyć bazę danych w SQL?
+2. Jak stworzyć tabelę w SQL?
+3. Jak wpisać dane do tabeli w SQL?
+4. Jak wpisać kilka danych na raz do tabeli w SQL?
+5. Jak wpisać kilka losowych liczb do tabeli w SQL?
+6. Jak wpisać losową datę do tabeli w SQL?
+7. Jak stworzyć kwerendę w SQL?
+8. Jak stworzyć kwerendę z tabeli "klienci" w SQL?
+9. Jak stworzyć kwerendę z imion w tabeli "klienci" w SQL?
+10. Jak stworzyć kwerendę z kilku tabeli w SQL?
