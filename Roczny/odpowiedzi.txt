@@ -1,0 +1,11 @@
+1. CREATE DATABASE nazwa
+2. CREATA TABLE nazwa
+3. INSERT INTO nazwa VALUES()
+4. INSERT INTO nazwa VALUES(),
+(),
+5. Za pomocą ROUND(RAND())
+6. Za pomocą CONCAT()
+7. SELECT * FROM nazwa
+8. SELCET * FROM klienci
+9. SELECT imie FROM klienci
+10. SELECT * FROM nazwa, nazwa
